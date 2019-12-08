@@ -2,8 +2,8 @@
 CSCE 103 - Practical Quiz 2
 ----------------------------
 There are 3 tasks you need to complete in this quiz:
-	Task 1: [5 marks] You need to implement the function: search_names 
-	Task 2: [3 marks] You need to implement the function: print_search_results 
+	Task 1: [3 marks] You need to implement the function: search_names 
+	Task 2: [5 marks] You need to implement the function: print_search_results 
 	Task 3: [2 marks] You need to make appropriate calls to the functions.
 To do this, follow the steps 0 through 8 given in comments in this file.
 */
